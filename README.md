@@ -22,3 +22,7 @@
 
 ## AFTER CREATING A NEW BRANCH AND CHANGES WE NEED TO PUSH THE DATA TO MAIN BRANCH
 
+1. git checkout 
+2. git add .  (for adding the chnages to the staging area.)
+3. git commit -m "name of the changes" 
+4. git push -u oringin newbranch name 
