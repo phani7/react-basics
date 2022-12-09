@@ -26,3 +26,10 @@
 2. git add .  (for adding the chnages to the staging area.)
 3. git commit -m "name of the changes" 
 4. git push -u oringin newbranch name 
+
+
+## HOW TO MERGE THE BRANCHES WITH THE MAIN 
+
+1. git checkout Day1(main)
+2. git merge Day2(sub branch)
+3. git push --set-upstream origin Day1
